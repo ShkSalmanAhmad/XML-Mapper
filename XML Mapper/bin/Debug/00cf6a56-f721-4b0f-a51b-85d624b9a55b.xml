@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?><names xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Process_properties>
+    
+      <field_name>Task_ID</field_name>
+      <field_value>00cf6a56-f721-4b0f-a51b-85d624b9a55b</field_value>
+    
+    
+      <field_name>ReceiveDate</field_name>
+      <field_value>16/01/2020</field_value>
+    
+    
+      <field_name>Form_Type</field_name>
+      <field_value>40067</field_value>
+    
+  </Process_properties>
+
+  <OCR_properties>
+    <data>
+      <field_name>LastName</field_name>
+      <field_value>וינברג</field_value>
+    </data>
+    <data>
+      <field_name>FirstName</field_name>
+      <field_value>מריאוס</field_value>
+    </data>
+    <data>
+      <field_name>ID</field_name>
+      <field_value>016544686</field_value>
+    </data>
+    <data>
+      <field_name>BirthDate</field_name>
+      <field_value>03/10/1967</field_value>
+    </data>
+    <data>
+      <field_name>Gender</field_name>
+      <field_value>זכר</field_value>
+    </data>
+    <data>
+      <field_name>MaritalStatus</field_name>
+      <field_value>נשוי</field_value>
+    </data>
+    <data>
+      <field_name>Amount of Children</field_name>
+      <field_value>2</field_value>
+    </data>
+    <data>
+      <field_name>telephone</field_name>
+      <field_value></field_value>
+    </data>
+    <data>
+      <field_name>PhoneNo</field_name>
+      <field_value>0504065324</field_value>
+    </data>
+    <data>
+      <field_name>Street</field_name>
+      <field_value>בני בנימין</field_value>
+    </data>
+    <data>
+      <field_name>HouseNo</field_name>
+      <field_value>9</field_value>
+    </data>
+    <data>
+      <field_name>city</field_name>
+      <field_value>הרצליה</field_value>
+    </data>
+    <data>
+      <field_name>Postcode</field_name>
+      <field_value>4636222</field_value>
+    </data>
+    <data>
+      <field_name>Occupation / Job</field_name>
+      <field_value>רופא מנתח</field_value>
+    </data>
+    <data>
+      <field_name>post or digital</field_name>
+      <field_value>דיגיטלי</field_value>
+    </data>
+    <data>
+      <field_name>Work danger Details</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>Danger hobbies</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>Last Name Beneficiary 1</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>First Name Beneficiary 1</field_name>
+      <field_value>יורשי החוקיים</field_value>
+    </data>
+    <data>
+      <field_name>I.D. Beneficiary 1</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Date of Birth Beneficiary 1</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Relation Beneficiary 1</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Share in percentage Beneficiary 1</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Last Name Beneficiary 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>First Name Beneficiary 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>I.D. Beneficiary 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Date of Birth Beneficiary 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Relation Beneficiary 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Share in percentage Beneficiary 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Inheritants options</field_name>
+      <field_value>יורשים חוקיים</field_value>
+    </data>
+    <data>
+      <field_name>Start date of the insurance</field_name>
+      <field_value>01/02/2020</field_value>
+    </data>
+    <data>
+      <field_name>SAPIR- insurance amount  in NIS</field_name>
+      <field_value>1000000</field_value>
+    </data>
+    <data>
+      <field_name>death from accident</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>death from accident- insurance amoun  in NIS</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>disability from an accident</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>disability from an accident- insurance amount   in NIS</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>shihoror belvad</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>shihoror harhvot</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>magen hacnasha Age 60/62/64/65/68</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>weight</field_name>
+     <field_value>90</field_value>
+    </data>
+    <data>
+      <field_name>height</field_name>
+      <field_value>173</field_value>
+    </data>
+    <data>
+      <field_name>f60</field_name>
+     <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f61</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f62</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f63</field_name>
+    <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f64</field_name>
+     <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f65</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f66</field_name>
+     <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f67</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>f68</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>hazharat briuot- Date</field_name>
+   <field_value>16/01/2020</field_value>
+    </data>
+    <data>
+      <field_name>hazharat briuot-Name of the client</field_name>
+      <field_value>מריאוס וינברג</field_value>
+    </data>
+    <data>
+      <field_name>hazharat briuot- Signature of client</field_name>
+    <field_value>1</field_value>
+    </data>
+    <data>
+      <field_name>vasar- Name of the client</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>vasar- ID of the client</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>vasar- Date</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>vasar- Signature of the client</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>hazharat sochen- Name of client</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>hazharat sochen -ID of the client</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>hazharat sochen- Date</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>hazharat sochen- Agent Name</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>hazharat sochen- Agent Signature</field_name>
+     <field_value>1</field_value>
+    </data>
+    <data>
+      <field_name>eshur muihad- Date</field_name>
+      <field_value>16/01/2020</field_value>
+    </data>
+    <data>
+      <field_name>eshur muihad- Signature of client</field_name>
+      <field_value>1</field_value>
+    </data>
+    <data>
+      <field_name>thalich mechira</field_name>
+      <field_value>כן</field_value>
+    </data>
+    <data>
+      <field_name>hasvaha vbitol shel polisa mekorit</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>mozar doma</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>eshour divur</field_name>
+      <field_value>לא</field_value>
+    </data>
+    <data>
+      <field_name>hazharat mevotach- Date</field_name>
+      <field_value>16/01/2020</field_value>
+    </data>
+    <data>
+      <field_name>hazharat mevotach-Signature of client</field_name>
+      <field_value>1</field_value>
+    </data>
+    <data>
+      <field_name>hazharat sochen 2- Date</field_name>
+      <field_value>16/01/2020</field_value>
+    </data>
+    <data>
+      <field_name>hazharat sochen 2- Agent Signature</field_name>
+      <field_value>1</field_value>
+    </data>
+    <data>
+      <field_name>hazharat sochen 2- Agency Signature</field_name>
+      <field_value>1</field_value>
+    </data>
+    <data>
+      <field_name>Bank Name</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Bank Number</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Bank Brach</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Bank Address</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>bank account number</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon-ID</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon-name</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon-polisa</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon- Street</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon- HouseNo</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon-city</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>baahal hahsbon-Postcode</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>emoot vzihoui -Date</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>emoot vzihoui -Date 2</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>emoot vzihoui-Agent Name</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>emoot vzihoui-Agent Number</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Agent Signature</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>emoot vzihoui- Date 3</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>emoot vzihoui-Signature of client</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>card type</field_name>
+     <field_value>ישרכארט</field_value>
+    </data>
+    <data>
+      <field_name>card vaildity</field_name>
+      <field_value>11/2024</field_value>
+    </data>
+    <data>
+      <field_name>card number</field_name>
+      <field_value>5326102314142134</field_value>
+    </data>
+    <data>
+      <field_name>owners card name</field_name>
+      <field_value>וינברג מריאוס</field_value>
+    </data>
+    <data>
+      <field_name>id- owners card</field_name>
+      <field_value>016544686</field_value>
+    </data>
+    <data>
+      <field_name>owners card- Address</field_name>
+      <field_value>בני בנימין</field_value>
+    </data>
+    <data>
+      <field_name>owners card-HouseNo</field_name>
+      <field_value>9</field_value>
+    </data>
+    <data>
+      <field_name>owners card -city</field_name>
+      <field_value>הרצליה</field_value>
+    </data>
+    <data>
+      <field_name>owners card- Postcode</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>taslom becartis ashrai- date</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>taslom becartis ashrai- owners card Signature</field_name>
+      <field_value />
+    </data>
+    <data>
+      <field_name>Agent Number</field_name>
+      <field_value>48353</field_value>
+    </data>
+    <data>
+      <field_name>b</field_name>
+      <field_value />
+    </data>
+  </OCR_properties>
+</names></field_value>
+    </data>
+    <data>
+      <field_name>hazharat mevotach- Date</field_name>
+      <field_value>16/01/2020</field_value>
+    <

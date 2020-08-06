@@ -1,0 +1,22 @@
+*Original Name
+LastName
+FirstName
+ID
+BirthDate
+Gender
+MaritalStatus
+Amount of Children
+telephone
+PhoneNo
+*Updated Name
+שם משפחה x
+שם פרטי x
+מזהה x
+תאריך לידה
+מין
+סטטוס
+מספר ילדים
+טלפון x
+נייד
+*unWanted chars
+(<?~,!)

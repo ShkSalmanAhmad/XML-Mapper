@@ -1,0 +1,11 @@
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\bin\Debug\XML Mapper.exe.config
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\bin\Debug\XML Mapper.exe
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\bin\Debug\XML Mapper.pdb
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML Mapper.csprojAssemblyReference.cache
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML_Mapper.Form1.resources
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML_Mapper.MainForm.resources
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML_Mapper.Properties.Resources.resources
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML Mapper.csproj.GenerateResource.cache
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML Mapper.exe
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML Mapper.pdb
+C:\Users\Salman Ahmad\source\repos\XML Mapper\XML Mapper\obj\Debug\XML Mapper.csproj.ResolveComReference.cache
